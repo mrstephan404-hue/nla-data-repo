@@ -1,81 +1,97 @@
 Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
+"January 24, 2026 - Saturday",NATIONAL,44-78-52-57-7,N/A,#3301
+"January 24, 2026 - Saturday",5/39 Direct Saturday,14-24-15-19-6,N/A,#230
+"January 24, 2026 - Saturday",Saturday Noon Rush,44-62-36-85-57,N/A,#124
 "January 24, 2026 - Saturday",VAG Saturday,23-14-46-21-70,N/A,#230
 "January 23, 2026 - Friday",FRIDAY BONANZA,8-4-54-48-1,N/A,#925
 "January 23, 2026 - Friday",5/39 Direct Friday,2-17-24-4-7,N/A,#226
 "January 23, 2026 - Friday",Friday Noon Rush,58-90-47-69-81,N/A,#121
 "January 23, 2026 - Friday",VAG Friday,48-11-80-19-70,N/A,#226
-"January 22, 2026 - Thursday",5/39 Direct Thursday,26-22-33-6-18,,#230
-"January 22, 2026 - Thursday",Thursday Noon Rush,6-90-34-61-26,,#122
-"January 22, 2026 - Thursday",VAG Thursday,70-52-78-82-30,,#230
-"January 21, 2026 - Wednesday",Wednesday Noon Rush,59-2-31-50-32,,#123
-"January 21, 2026 - Wednesday",VAG Wednesday,78-43-49-62-6,,#231
-"January 20, 2026 - Tuesday",LUCKY TUESDAY,21-17-11-76-86,,#956
-"January 20, 2026 - Tuesday",5/39 Direct Tuesday,37-35-7-9-4,,#229
-"January 20, 2026 - Tuesday",Tuesday Noon Rush,47-7-20-62-90,,#124
-"January 20, 2026 - Tuesday",VAG Tuesday,89-86-83-54-61,,#817
-"January 19, 2026 - Monday",Monday Noon Rush,51-32-24-70-56,,#122
-"January 19, 2026 - Monday",VAG Monday,1-4-77-49-11,,#222
-"January 18, 2026 - Sunday",SUNDAY ASEDA,33-10-39-53-34,,#182
-"January 17, 2026 - Saturday",NATIONAL,42-81-27-37-23,,#3300
-"January 17, 2026 - Saturday",5/39 Direct Saturday,29-6-5-21-34,,#229
-"January 17, 2026 - Saturday",Saturday Noon Rush,12-75-5-78-31,,#123
-"January 17, 2026 - Saturday",VAG Saturday,52-72-18-37-20,,#229
-"January 16, 2026 - Friday",Friday Noon Rush,12-77-56-74-80,,#120
-"January 16, 2026 - Friday",VAG Friday,11-72-67-1-57,,#225
-"January 15, 2026 - Thursday",5/39 Direct Thursday,12-20-15-38-11,,#229
-"January 15, 2026 - Thursday",Thursday Noon Rush,37-60-17-52-79,,#121
-"January 15, 2026 - Thursday",VAG Thursday,76-81-35-58-64,,#229
-"January 14, 2026 - Wednesday",Wednesday Noon Rush,66-70-75-63-3,,#122
-"January 14, 2026 - Wednesday",VAG Wednesday,54-22-39-41-2,,#230
-"January 13, 2026 - Tuesday",LUCKY TUESDAY,31-3-70-43-58,,#955
-"January 13, 2026 - Tuesday",5/39 Direct Tuesday,3-2-4-10-27,,#228
-"January 13, 2026 - Tuesday",Tuesday Noon Rush,5-52-44-2-8,,#123
-"January 13, 2026 - Tuesday",VAG Tuesday,55-14-16-75-60,,#816
-"January 12, 2026 - Monday",VAG Monday,84-87-32-50-89,,#221
-"January 11, 2026 - Sunday",SUNDAY ASEDA,59-66-22-1-82,,#181
-"January 10, 2026 - Saturday",NATIONAL,74-44-58-16-42,,#3299
-"January 10, 2026 - Saturday",5/39 Direct Saturday,7-10-13-9-28,,#228
-"January 10, 2026 - Saturday",Saturday Noon Rush,16-25-36-49-69,,#122
-"January 10, 2026 - Saturday",VAG Saturday,45-2-85-47-17,,#228
-"January 8, 2026 - Thursday",VAG Thursday,46-82-69-56-22,,#228
-"January 7, 2026 - Wednesday",MID WEEK,18-37-60-49-46,,#1151
-"January 7, 2026 - Wednesday",5/39 Direct Wednesday,34-8-28-4-23,,#229
-"January 7, 2026 - Wednesday",Wednesday Noon Rush,13-30-74-46-41,,#121
-"January 7, 2026 - Wednesday",VAG Wednesday,34-42-82-55-36,,#229
-"January 6, 2026 - Tuesday",LUCKY TUESDAY,85-7-5-81-56,,#954
-"January 6, 2026 - Tuesday",5/39 Direct Tuesday,39-19-29-36-14,,#227
-"January 6, 2026 - Tuesday",Tuesday Noon Rush,75-13-42-68-62,,#122
-"January 6, 2026 - Tuesday",VAG Tuesday,37-84-22-83-38,,#815
-"January 5, 2026 - Monday",MONDAY SPECIAL,25-20-40-79-43,,#1014
-"January 5, 2026 - Monday",5/39 Direct Monday,11-25-14-13-1,,#490
-"January 5, 2026 - Monday",Monday Noon Rush,5-43-33-83-76,,#120
-"January 5, 2026 - Monday",VAG Monday,87-73-13-54-85,,#220
-"January 4, 2026 - Sunday",SUNDAY ASEDA,48-88-21-50-45,,#180
-"January 3, 2026 - Saturday",NATIONAL,10-38-37-25-27,,#3298
-"January 3, 2026 - Saturday",5/39 Direct Saturday,1-16-15-10-18,,#227
-"January 3, 2026 - Saturday",Saturday Noon Rush,85-33-49-76-20,,#121
-"January 3, 2026 - Saturday",VAG Saturday,57-74-41-6-60,,#227
-"January 2, 2026 - Friday",FRIDAY BONANZA,46-48-44-1-73,,#923
-"January 2, 2026 - Friday",5/39 Direct Friday,30-13-39-14-22,,#224
-"January 2, 2026 - Friday",Friday Noon Rush,90-15-77-64-86,,#119
-"January 2, 2026 - Friday",VAG Friday,58-2-41-38-66,,#224
-"December 31, 2025 - Wednesday",MID WEEK,1-88-66-22-20,,#1150
-"December 31, 2025 - Wednesday",5/39 Direct Wednesday,5-29-27-18-13,,#228
-"December 31, 2025 - Wednesday",Wednesday Noon Rush,44-71-76-38-80,,#120
-"December 31, 2025 - Wednesday",VAG Wednesday,77-87-89-82-20,,#228
-"December 30, 2025 - Tuesday",LUCKY TUESDAY,81-40-8-23-42,,#953
-"December 30, 2025 - Tuesday",5/39 Direct Tuesday,25-19-21-37-32,,#226
-"December 30, 2025 - Tuesday",Tuesday Noon Rush,27-23-2-62-86,,#121
-"December 30, 2025 - Tuesday",VAG Tuesday,23-2-26-85-37,,#814
-"December 29, 2025 - Monday",MONDAY SPECIAL,1-6-69-82-55,,#1013
-"December 29, 2025 - Monday",5/39 Direct Monday,31-19-39-15-12,,#489
-"December 29, 2025 - Monday",Monday Noon Rush,87-79-15-52-24,,#119
-"December 29, 2025 - Monday",VAG Monday,53-50-77-66-11,,#219
-"December 28, 2025 - Sunday",SUNDAY ASEDA,59-90-35-18-66,,#179
-"December 27, 2025 - Saturday",NATIONAL,12-3-65-4-29,,#3297
-"December 27, 2025 - Saturday",5/39 Direct Saturday,33-28-25-30-20,,#226
-"December 27, 2025 - Saturday",Saturday Noon Rush,21-67-2-78-37,,#120
-"December 27, 2025 - Saturday",VAG Saturday,12-10-41-70-78,,#226
+"January 22, 2026 - Thursday",5/39 Direct Thursday,26-22-33-6-18,N/A,#230
+"January 22, 2026 - Thursday",Thursday Noon Rush,6-90-34-61-26,N/A,#122
+"January 22, 2026 - Thursday",VAG Thursday,70-52-78-82-30,N/A,#230
+"January 21, 2026 - Wednesday",MID WEEK,43-59-71-2-9,N/A,#1153
+"January 21, 2026 - Wednesday",5/39 Direct Wednesday,10-21-30-9-26,N/A,#231
+"January 21, 2026 - Wednesday",Wednesday Noon Rush,59-2-31-50-32,N/A,#123
+"January 21, 2026 - Wednesday",VAG Wednesday,78-43-49-62-6,N/A,#231
+"January 20, 2026 - Tuesday",LUCKY TUESDAY,21-17-11-76-86,N/A,#956
+"January 20, 2026 - Tuesday",5/39 Direct Tuesday,37-35-7-9-4,N/A,#229
+"January 20, 2026 - Tuesday",Tuesday Noon Rush,47-7-20-62-90,N/A,#124
+"January 20, 2026 - Tuesday",VAG Tuesday,89-86-83-54-61,N/A,#817
+"January 19, 2026 - Monday",MONDAY SPECIAL,86-74-57-60-8,N/A,#1016
+"January 19, 2026 - Monday",5/39 Direct Monday,20-39-7-3-11,N/A,#492
+"January 19, 2026 - Monday",Monday Noon Rush,51-32-24-70-56,N/A,#122
+"January 19, 2026 - Monday",VAG Monday,1-4-77-49-11,N/A,#222
+"January 18, 2026 - Sunday",SUNDAY ASEDA,33-10-39-53-34,N/A,#182
+"January 17, 2026 - Saturday",NATIONAL,42-81-27-37-23,N/A,#3300
+"January 17, 2026 - Saturday",5/39 Direct Saturday,29-6-5-21-34,N/A,#229
+"January 17, 2026 - Saturday",Saturday Noon Rush,12-75-5-78-31,N/A,#123
+"January 17, 2026 - Saturday",VAG Saturday,52-72-18-37-20,N/A,#229
+"January 16, 2026 - Friday",FRIDAY BONANZA,15-49-7-70-66,N/A,#924
+"January 16, 2026 - Friday",5/39 Direct Friday,3-6-15-23-11,N/A,#225
+"January 16, 2026 - Friday",Friday Noon Rush,12-77-56-74-80,N/A,#120
+"January 16, 2026 - Friday",VAG Friday,11-72-67-1-57,N/A,#225
+"January 15, 2026 - Thursday",5/39 Direct Thursday,12-20-15-38-11,N/A,#229
+"January 15, 2026 - Thursday",Thursday Noon Rush,37-60-17-52-79,N/A,#121
+"January 15, 2026 - Thursday",VAG Thursday,76-81-35-58-64,N/A,#229
+"January 14, 2026 - Wednesday",MID WEEK,76-10-51-45-63,N/A,#1152
+"January 14, 2026 - Wednesday",5/39 Direct Wednesday,30-11-34-8-9,N/A,#230
+"January 14, 2026 - Wednesday",Wednesday Noon Rush,66-70-75-63-3,N/A,#122
+"January 14, 2026 - Wednesday",VAG Wednesday,54-22-39-41-2,N/A,#230
+"January 13, 2026 - Tuesday",LUCKY TUESDAY,31-3-70-43-58,N/A,#955
+"January 13, 2026 - Tuesday",5/39 Direct Tuesday,3-2-4-10-27,N/A,#228
+"January 13, 2026 - Tuesday",Tuesday Noon Rush,5-52-44-2-8,N/A,#123
+"January 13, 2026 - Tuesday",VAG Tuesday,55-14-16-75-60,N/A,#816
+"January 12, 2026 - Monday",MONDAY SPECIAL,12-26-40-47-44,N/A,#1015
+"January 12, 2026 - Monday",5/39 Direct Monday,16-9-6-34-38,N/A,#491
+"January 12, 2026 - Monday",Monday Noon Rush,30-24-43-1-40,N/A,#121
+"January 12, 2026 - Monday",VAG Monday,84-87-32-50-89,N/A,#221
+"January 11, 2026 - Sunday",SUNDAY ASEDA,59-66-22-1-82,N/A,#181
+"January 10, 2026 - Saturday",NATIONAL,74-44-58-16-42,N/A,#3299
+"January 10, 2026 - Saturday",5/39 Direct Saturday,7-10-13-9-28,N/A,#228
+"January 10, 2026 - Saturday",Saturday Noon Rush,16-25-36-49-69,N/A,#122
+"January 10, 2026 - Saturday",VAG Saturday,45-2-85-47-17,N/A,#228
+"January 8, 2026 - Thursday",5/39 Direct Thursday,21-23-3-4-7,N/A,#228
+"January 8, 2026 - Thursday",Thursday Noon Rush,15-27-28-84-17,N/A,#120
+"January 8, 2026 - Thursday",VAG Thursday,46-82-69-56-22,N/A,#228
+"January 7, 2026 - Wednesday",MID WEEK,18-37-60-49-46,N/A,#1151
+"January 7, 2026 - Wednesday",5/39 Direct Wednesday,34-8-28-4-23,N/A,#229
+"January 7, 2026 - Wednesday",Wednesday Noon Rush,13-30-74-46-41,N/A,#121
+"January 7, 2026 - Wednesday",VAG Wednesday,34-42-82-55-36,N/A,#229
+"January 6, 2026 - Tuesday",LUCKY TUESDAY,85-7-5-81-56,N/A,#954
+"January 6, 2026 - Tuesday",5/39 Direct Tuesday,39-19-29-36-14,N/A,#227
+"January 6, 2026 - Tuesday",Tuesday Noon Rush,75-13-42-68-62,N/A,#122
+"January 6, 2026 - Tuesday",VAG Tuesday,37-84-22-83-38,N/A,#815
+"January 5, 2026 - Monday",MONDAY SPECIAL,25-20-40-79-43,N/A,#1014
+"January 5, 2026 - Monday",5/39 Direct Monday,11-25-14-13-1,N/A,#490
+"January 5, 2026 - Monday",Monday Noon Rush,5-43-33-83-76,N/A,#120
+"January 5, 2026 - Monday",VAG Monday,87-73-13-54-85,N/A,#220
+"January 4, 2026 - Sunday",SUNDAY ASEDA,48-88-21-50-45,N/A,#180
+"January 3, 2026 - Saturday",NATIONAL,10-38-37-25-27,N/A,#3298
+"January 3, 2026 - Saturday",5/39 Direct Saturday,1-16-15-10-18,N/A,#227
+"January 3, 2026 - Saturday",Saturday Noon Rush,85-33-49-76-20,N/A,#121
+"January 3, 2026 - Saturday",VAG Saturday,57-74-41-6-60,N/A,#227
+"January 2, 2026 - Friday",FRIDAY BONANZA,46-48-44-1-73,N/A,#923
+"January 2, 2026 - Friday",5/39 Direct Friday,30-13-39-14-22,N/A,#224
+"January 2, 2026 - Friday",Friday Noon Rush,90-15-77-64-86,N/A,#119
+"January 2, 2026 - Friday",VAG Friday,58-2-41-38-66,N/A,#224
+"December 31, 2025 - Wednesday",MID WEEK,1-88-66-22-20,N/A,#1150
+"December 31, 2025 - Wednesday",5/39 Direct Wednesday,5-29-27-18-13,N/A,#228
+"December 31, 2025 - Wednesday",Wednesday Noon Rush,44-71-76-38-80,N/A,#120
+"December 31, 2025 - Wednesday",VAG Wednesday,77-87-89-82-20,N/A,#228
+"December 30, 2025 - Tuesday",LUCKY TUESDAY,81-40-8-23-42,N/A,#953
+"December 30, 2025 - Tuesday",5/39 Direct Tuesday,25-19-21-37-32,N/A,#226
+"December 30, 2025 - Tuesday",Tuesday Noon Rush,27-23-2-62-86,N/A,#121
+"December 30, 2025 - Tuesday",VAG Tuesday,23-2-26-85-37,N/A,#814
+"December 29, 2025 - Monday",MONDAY SPECIAL,1-6-69-82-55,N/A,#1013
+"December 29, 2025 - Monday",5/39 Direct Monday,31-19-39-15-12,N/A,#489
+"December 29, 2025 - Monday",Monday Noon Rush,87-79-15-52-24,N/A,#119
+"December 29, 2025 - Monday",VAG Monday,53-50-77-66-11,N/A,#219
+"December 28, 2025 - Sunday",SUNDAY ASEDA,59-90-35-18-66,N/A,#179
+"December 27, 2025 - Saturday",NATIONAL,12-3-65-4-29,N/A,#3297
+"December 27, 2025 - Saturday",5/39 Direct Saturday,33-28-25-30-20,N/A,#226
+"December 27, 2025 - Saturday",Saturday Noon Rush,21-67-2-78-37,N/A,#120
+"December 27, 2025 - Saturday",VAG Saturday,12-10-41-70-78,N/A,#226
 "December 24, 2025 - Wednesday",MID WEEK,38-24-70-49-73,,#1149
 "December 24, 2025 - Wednesday",5/39 Direct Wednesday,30-35-18-27-36,,#227
 "December 24, 2025 - Wednesday",Wednesday Noon Rush,18-63-90-8-35,,#119
