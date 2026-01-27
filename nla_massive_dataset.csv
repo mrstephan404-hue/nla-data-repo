@@ -1,4 +1,8 @@
 Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
+"January 26, 2026 - Monday",MONDAY SPECIAL,46-66-7-2-73,N/A,#1017
+"January 26, 2026 - Monday",5/39 Direct Monday,30-26-7-14-16,N/A,#493
+"January 26, 2026 - Monday",Monday Noon Rush,67-17-11-4-35,N/A,#123
+"January 26, 2026 - Monday",VAG Monday,31-41-80-11-18,N/A,#223
 "January 25, 2026 - Sunday",SUNDAY ASEDA,76-18-5-70-33,N/A,#183
 "January 24, 2026 - Saturday",NATIONAL,44-78-52-57-7,N/A,#3301
 "January 24, 2026 - Saturday",5/39 Direct Saturday,14-24-15-19-6,N/A,#230
@@ -88,7 +92,7 @@ Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
 "December 29, 2025 - Monday",5/39 Direct Monday,31-19-39-15-12,N/A,#489
 "December 29, 2025 - Monday",Monday Noon Rush,87-79-15-52-24,N/A,#119
 "December 29, 2025 - Monday",VAG Monday,53-50-77-66-11,N/A,#219
-"December 28, 2025 - Sunday",SUNDAY ASEDA,59-90-35-18-66,N/A,#179
+"December 28, 2025 - Sunday",SUNDAY ASEDA,59-90-35-18-66,,#179
 "December 27, 2025 - Saturday",NATIONAL,12-3-65-4-29,,#3297
 "December 27, 2025 - Saturday",5/39 Direct Saturday,33-28-25-30-20,,#226
 "December 27, 2025 - Saturday",Saturday Noon Rush,21-67-2-78-37,,#120
