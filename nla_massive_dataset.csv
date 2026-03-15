@@ -1,4 +1,8 @@
 Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
+"March 14, 2026 - Saturday",NATIONAL,1-42-12-20-64,N/A,#3308
+"March 14, 2026 - Saturday",5/39 Direct Saturday,8-31-11-22-34,N/A,#237
+"March 14, 2026 - Saturday",Saturday Noon Rush,83-26-22-12-19,N/A,#131
+"March 14, 2026 - Saturday",VAG Saturday,84-66-62-10-19,N/A,#237
 "March 12, 2026 - Thursday",5/39 Direct Thursday,14-25-16-28-30,N/A,#237
 "March 12, 2026 - Thursday",Thursday Noon Rush,60-17-14-59-30,N/A,#129
 "March 12, 2026 - Thursday",VAG Thursday,50-9-42-10-88,N/A,#237
@@ -19,6 +23,9 @@ Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
 "March 7, 2026 - Saturday",5/39 Direct Saturday,33-8-6-14-21,N/A,#236
 "March 7, 2026 - Saturday",Saturday Noon Rush,73-52-46-62-23,N/A,#130
 "March 7, 2026 - Saturday",VAG Saturday,2-23-79-17-3,N/A,#236
+"March 6, 2026 - Friday",FRIDAY BONANZA,18-77-83-17-21,N/A,#931
+"March 6, 2026 - Friday",5/39 Direct Friday,9-12-26-34-16,N/A,#232
+"March 6, 2026 - Friday",Friday Noon Rush,67-66-88-85-13,N/A,#127
 "March 6, 2026 - Friday",VAG Friday,10-69-28-51-52,N/A,#232
 "March 5, 2026 - Thursday",5/39 Direct Thursday,15-20-28-16-14,N/A,#236
 "March 5, 2026 - Thursday",Thursday Noon Rush,74-51-64-22-5,N/A,#128
@@ -88,10 +95,10 @@ Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
 "February 14, 2026 - Saturday",5/39 Direct Saturday,7-11-32-12-9,N/A,#233
 "February 14, 2026 - Saturday",Saturday Noon Rush,76-70-72-19-5,N/A,#127
 "February 14, 2026 - Saturday",VAG Saturday,14-7-43-16-73,N/A,#233
-"February 13, 2026 - Friday",FRIDAY BONANZA,77-55-60-85-1,N/A,#928
-"February 13, 2026 - Friday",5/39 Direct Friday,31-5-18-11-28,N/A,#229
-"February 13, 2026 - Friday",Friday Noon Rush,8-23-52-15-84,N/A,#124
-"February 13, 2026 - Friday",VAG Friday,40-68-70-20-24,N/A,#229
+"February 13, 2026 - Friday",FRIDAY BONANZA,77-55-60-85-1,,#928
+"February 13, 2026 - Friday",5/39 Direct Friday,31-5-18-11-28,,#229
+"February 13, 2026 - Friday",Friday Noon Rush,8-23-52-15-84,,#124
+"February 13, 2026 - Friday",VAG Friday,40-68-70-20-24,,#229
 "February 12, 2026 - Thursday",FORTUNE THURSDAY,29-40-44-22-84,,#962
 "February 12, 2026 - Thursday",5/39 Direct Thursday,29-16-7-17-38,,#233
 "February 12, 2026 - Thursday",Thursday Noon Rush,57-27-61-5-52,,#125
