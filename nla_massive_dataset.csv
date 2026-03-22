@@ -1,4 +1,8 @@
 Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
+"March 21, 2026 - Saturday",NATIONAL,9-75-8-86-24,N/A,#3309
+"March 21, 2026 - Saturday",5/39 Direct Saturday,10-19-39-34-21,N/A,#238
+"March 21, 2026 - Saturday",Saturday Noon Rush,18-45-90-53-60,N/A,#132
+"March 21, 2026 - Saturday",VAG Saturday,4-61-86-19-10,N/A,#238
 "March 19, 2026 - Thursday",5/39 Direct Thursday,18-12-2-33-21,N/A,#238
 "March 19, 2026 - Thursday",Thursday Noon Rush,75-87-89-56-61,N/A,#130
 "March 19, 2026 - Thursday",VAG Thursday,80-68-49-85-28,N/A,#238
@@ -87,10 +91,10 @@ Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
 "February 21, 2026 - Saturday",5/39 Direct Saturday,6-10-23-19-9,N/A,#234
 "February 21, 2026 - Saturday",Saturday Noon Rush,60-55-10-53-29,N/A,#128
 "February 21, 2026 - Saturday",VAG Saturday,24-83-69-11-6,N/A,#234
-"February 20, 2026 - Friday",FRIDAY BONANZA,42-82-11-25-55,N/A,#929
-"February 20, 2026 - Friday",5/39 Direct Friday,6-3-39-31-15,N/A,#230
-"February 20, 2026 - Friday",Friday Noon Rush,71-17-56-81-49,N/A,#125
-"February 20, 2026 - Friday",VAG Friday,72-57-88-13-61,N/A,#230
+"February 20, 2026 - Friday",FRIDAY BONANZA,42-82-11-25-55,,#929
+"February 20, 2026 - Friday",5/39 Direct Friday,6-3-39-31-15,,#230
+"February 20, 2026 - Friday",Friday Noon Rush,71-17-56-81-49,,#125
+"February 20, 2026 - Friday",VAG Friday,72-57-88-13-61,,#230
 "February 19, 2026 - Thursday",FORTUNE THURSDAY,49-77-80-81-65,,#963
 "February 19, 2026 - Thursday",5/39 Direct Thursday,32-20-7-35-9,,#234
 "February 19, 2026 - Thursday",Thursday Noon Rush,21-15-52-49-23,,#126
