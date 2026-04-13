@@ -1,4 +1,9 @@
 Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
+"April 12, 2026 - Sunday",SUNDAY ASEDA,57-3-75-38-63,N/A,#194
+"April 11, 2026 - Saturday",NATIONAL,13-67-71-72-63,N/A,#3312
+"April 11, 2026 - Saturday",5/39 Direct Saturday,27-21-15-10-26,N/A,#241
+"April 11, 2026 - Saturday",Saturday Noon Rush,68-74-76-66-90,N/A,#135
+"April 11, 2026 - Saturday",VAG Saturday,78-3-56-39-83,N/A,#241
 "April 9, 2026 - Thursday",5/39 Direct Thursday,16-18-25-5-12,N/A,#241
 "April 9, 2026 - Thursday",Thursday Noon Rush,72-1-52-33-84,N/A,#133
 "April 9, 2026 - Thursday",VAG Thursday,45-36-34-60-49,N/A,#241
@@ -15,6 +20,7 @@ Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
 "April 4, 2026 - Saturday",5/39 Direct Saturday,21-32-14-23-18,N/A,#240
 "April 4, 2026 - Saturday",Saturday Noon Rush,58-73-13-66-49,N/A,#134
 "April 4, 2026 - Saturday",VAG Saturday,79-23-72-68-26,N/A,#240
+"April 3, 2026 - Friday",Friday Noon Rush,54-33-57-55-20,N/A,#129
 "April 2, 2026 - Thursday",5/39 Direct Thursday,8-39-38-37-1,N/A,#240
 "April 2, 2026 - Thursday",Thursday Noon Rush,32-38-66-64-4,N/A,#132
 "April 2, 2026 - Thursday",VAG Thursday,42-87-69-38-85,N/A,#240
@@ -52,6 +58,8 @@ Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
 "March 21, 2026 - Saturday",5/39 Direct Saturday,10-19-39-34-21,N/A,#238
 "March 21, 2026 - Saturday",Saturday Noon Rush,18-45-90-53-60,N/A,#132
 "March 21, 2026 - Saturday",VAG Saturday,4-61-86-19-10,N/A,#238
+"March 20, 2026 - Friday",FRIDAY BONANZA,16-40-37-6-4,N/A,#933
+"March 20, 2026 - Friday",5/39 Direct Friday,26-36-32-37-35,N/A,#234
 "March 20, 2026 - Friday",VAG Friday,85-53-31-23-34,N/A,#234
 "March 19, 2026 - Thursday",5/39 Direct Thursday,18-12-2-33-21,N/A,#238
 "March 19, 2026 - Thursday",Thursday Noon Rush,75-87-89-56-61,N/A,#130
@@ -69,10 +77,10 @@ Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
 "March 16, 2026 - Monday",Monday Noon Rush,44-70-19-57-62,N/A,#130
 "March 16, 2026 - Monday",VAG Monday,82-1-7-9-58,N/A,#230
 "March 15, 2026 - Sunday",SUNDAY ASEDA,81-17-12-69-1,N/A,#190
-"March 14, 2026 - Saturday",NATIONAL,1-42-12-20-64,N/A,#3308
-"March 14, 2026 - Saturday",5/39 Direct Saturday,8-31-11-22-34,N/A,#237
-"March 14, 2026 - Saturday",Saturday Noon Rush,83-26-22-12-19,N/A,#131
-"March 14, 2026 - Saturday",VAG Saturday,84-66-62-10-19,N/A,#237
+"March 14, 2026 - Saturday",NATIONAL,1-42-12-20-64,,#3308
+"March 14, 2026 - Saturday",5/39 Direct Saturday,8-31-11-22-34,,#237
+"March 14, 2026 - Saturday",Saturday Noon Rush,83-26-22-12-19,,#131
+"March 14, 2026 - Saturday",VAG Saturday,84-66-62-10-19,,#237
 "March 13, 2026 - Friday",FRIDAY BONANZA,43-33-23-11-9,,#932
 "March 13, 2026 - Friday",5/39 Direct Friday,1-38-11-19-25,,#233
 "March 13, 2026 - Friday",VAG Friday,66-70-77-42-90,,#233
