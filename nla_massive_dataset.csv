@@ -1,4 +1,8 @@
 Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
+"June 1, 2026 - Monday",VAG Monday,46-58-72-82-76,N/A,#239
+"May 31, 2026 - Sunday",SUNDAY ASEDA,76-67-10-41-51,N/A,#201
+"May 30, 2026 - Saturday",NATIONAL,81-64-15-74-88,N/A,#3319
+"May 30, 2026 - Saturday",5/39 Direct Saturday,38-20-14-33-24,N/A,#248
 "May 30, 2026 - Saturday",Saturday Noon Rush,11-5-4-89-24,N/A,#142
 "May 30, 2026 - Saturday",VAG Saturday,7-68-18-17-83,N/A,#248
 "May 29, 2026 - Friday",FRIDAY BONANZA,33-79-35-58-68,N/A,#939
@@ -85,10 +89,10 @@ Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
 "May 4, 2026 - Monday",Monday Noon Rush,62-49-29-72-58,N/A,#135
 "May 4, 2026 - Monday",VAG Monday,22-83-12-70-66,N/A,#235
 "May 3, 2026 - Sunday",SUNDAY ASEDA,22-26-46-48-13,N/A,#197
-"May 2, 2026 - Saturday",NATIONAL,84-10-43-5-13,N/A,#3315
-"May 2, 2026 - Saturday",5/39 Direct Saturday,15-36-30-5-3,N/A,#244
-"May 2, 2026 - Saturday",Saturday Noon Rush,26-8-15-82-34,N/A,#138
-"May 2, 2026 - Saturday",VAG Saturday,52-81-1-51-47,N/A,#244
+"May 2, 2026 - Saturday",NATIONAL,84-10-43-5-13,,#3315
+"May 2, 2026 - Saturday",5/39 Direct Saturday,15-36-30-5-3,,#244
+"May 2, 2026 - Saturday",Saturday Noon Rush,26-8-15-82-34,,#138
+"May 2, 2026 - Saturday",VAG Saturday,52-81-1-51-47,,#244
 "May 1, 2026 - Friday",FRIDAY BONANZA,3-71-69-32-2,,#936
 "May 1, 2026 - Friday",5/39 Direct Friday,8-10-7-5-4,,#237
 "May 1, 2026 - Friday",VAG Friday,6-19-30-89-2,,#237
