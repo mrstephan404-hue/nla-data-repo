@@ -1,4 +1,8 @@
 Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
+"September 14, 2026 - Monday",MONDAY SPECIAL,63-60-57-55-16,N/A,#1048
+"September 14, 2026 - Monday",5/39 Direct Monday,5-7-29-24-25,N/A,#524
+"September 14, 2026 - Monday",Monday Noon Rush,52-81-32-27-14,N/A,#154
+"September 14, 2026 - Monday",VAG Monday,89-53-54-14-58,N/A,#254
 "September 13, 2026 - Sunday",SUNDAY ASEDA,52-73-44-50-62,N/A,#216
 "September 12, 2026 - Saturday",NATIONAL,50-80-1-6-65,N/A,#3334
 "September 12, 2026 - Saturday",5/39 Direct Saturday,30-4-7-21-5,N/A,#263
@@ -99,7 +103,7 @@ Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
 "August 17, 2026 - Monday",5/39 Direct Monday,23-24-26-5-10,N/A,#520
 "August 17, 2026 - Monday",Monday Noon Rush,5-28-3-10-2,N/A,#150
 "August 17, 2026 - Monday",VAG Monday,38-57-77-42-37,N/A,#250
-"August 16, 2026 - Sunday",SUNDAY ASEDA,71-84-82-80-39,N/A,#212
+"August 16, 2026 - Sunday",SUNDAY ASEDA,71-84-82-80-39,,#212
 "August 15, 2026 - Saturday",NATIONAL,29-84-70-49-17,,#3330
 "August 15, 2026 - Saturday",5/39 Direct Saturday,28-18-16-12-26,,#259
 "August 15, 2026 - Saturday",Saturday Noon Rush,40-81-86-24-1,,#153
