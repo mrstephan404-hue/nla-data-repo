@@ -1,4 +1,13 @@
 Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
+"September 27, 2026 - Sunday",SUNDAY ASEDA,3-54-59-81-64,N/A,#218
+"September 26, 2026 - Saturday",NATIONAL,45-39-40-41-46,N/A,#3336
+"September 26, 2026 - Saturday",5/39 Direct Saturday,9-1-26-23-7,N/A,#265
+"September 26, 2026 - Saturday",Saturday Noon Rush,59-58-53-55-32,N/A,#159
+"September 26, 2026 - Saturday",VAG Saturday,39-24-29-42-28,N/A,#265
+"September 25, 2026 - Friday",FRIDAY BONANZA,73-42-54-53-84,N/A,#955
+"September 25, 2026 - Friday",5/39 Direct Friday,2-25-8-31-32,N/A,#256
+"September 25, 2026 - Friday",Friday Noon Rush,18-42-2-3-30,N/A,#151
+"September 25, 2026 - Friday",VAG Friday,79-33-21-5-8,N/A,#256
 "September 24, 2026 - Thursday",FORTUNE THURSDAY,79-63-81-86-62,N/A,#990
 "September 24, 2026 - Thursday",5/39 Direct Thursday,21-24-1-8-36,N/A,#265
 "September 24, 2026 - Thursday",Thursday Noon Rush,17-57-90-11-60,N/A,#157
@@ -85,11 +94,11 @@ Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
 "August 31, 2026 - Monday",5/39 Direct Monday,31-26-1-19-6,N/A,#522
 "August 31, 2026 - Monday",Monday Noon Rush,16-11-4-33-48,N/A,#152
 "August 31, 2026 - Monday",VAG Monday,30-58-73-83-38,N/A,#252
-"August 30, 2026 - Sunday",SUNDAY ASEDA,76-38-44-55-12,N/A,#214
-"August 29, 2026 - Saturday",NATIONAL,52-53-12-1-17,N/A,#3332
-"August 29, 2026 - Saturday",5/39 Direct Saturday,27-13-8-25-5,N/A,#261
-"August 29, 2026 - Saturday",Saturday Noon Rush,10-74-70-62-49,N/A,#155
-"August 29, 2026 - Saturday",VAG Saturday,51-26-75-17-43,N/A,#261
+"August 30, 2026 - Sunday",SUNDAY ASEDA,76-38-44-55-12,,#214
+"August 29, 2026 - Saturday",NATIONAL,52-53-12-1-17,,#3332
+"August 29, 2026 - Saturday",5/39 Direct Saturday,27-13-8-25-5,,#261
+"August 29, 2026 - Saturday",Saturday Noon Rush,10-74-70-62-49,,#155
+"August 29, 2026 - Saturday",VAG Saturday,51-26-75-17-43,,#261
 "August 28, 2026 - Friday",FRIDAY BONANZA,85-42-45-23-15,,#951
 "August 28, 2026 - Friday",5/39 Direct Friday,5-36-38-6-32,,#252
 "August 28, 2026 - Friday",Friday Noon Rush,60-2-34-8-54,,#147
