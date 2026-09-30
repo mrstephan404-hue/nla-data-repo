@@ -11,6 +11,7 @@ Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
 "September 24, 2026 - Thursday",FORTUNE THURSDAY,79-63-81-86-62,N/A,#990
 "September 24, 2026 - Thursday",5/39 Direct Thursday,21-24-1-8-36,N/A,#265
 "September 24, 2026 - Thursday",Thursday Noon Rush,17-57-90-11-60,N/A,#157
+"September 24, 2026 - Thursday",VAG Thursday,27-68-57-48-49,N/A,#265
 "September 23, 2026 - Wednesday",MID WEEK,59-69-28-82-70,N/A,#1187
 "September 23, 2026 - Wednesday",5/39 Direct Wednesday,38-37-26-14-19,N/A,#265
 "September 23, 2026 - Wednesday",Wednesday Noon Rush,46-43-36-35-88,N/A,#157
@@ -19,6 +20,10 @@ Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
 "September 22, 2026 - Tuesday",5/39 Direct Tuesday,10-38-25-33-7,N/A,#264
 "September 22, 2026 - Tuesday",Tuesday Noon Rush,16-33-51-62-24,N/A,#159
 "September 22, 2026 - Tuesday",VAG Tuesday,4-6-52-64-63,N/A,#852
+"September 21, 2026 - Monday",MONDAY SPECIAL,56-13-30-17-87,N/A,#1049
+"September 21, 2026 - Monday",5/39 Direct Monday,30-20-9-35-15,N/A,#525
+"September 21, 2026 - Monday",Monday Noon Rush,5-69-78-21-61,N/A,#155
+"September 21, 2026 - Monday",VAG Monday,89-64-48-73-28,N/A,#255
 "September 20, 2026 - Sunday",SUNDAY ASEDA,32-4-50-30-90,N/A,#217
 "September 19, 2026 - Saturday",NATIONAL,23-81-9-78-20,N/A,#3335
 "September 19, 2026 - Saturday",5/39 Direct Saturday,18-13-26-14-4,N/A,#264
@@ -90,10 +95,10 @@ Date,Game,Winning_Numbers,Machine_Numbers,Draw_ID
 "September 1, 2026 - Tuesday",5/39 Direct Tuesday,18-3-24-36-35,N/A,#261
 "September 1, 2026 - Tuesday",Tuesday Noon Rush,78-24-9-50-56,N/A,#156
 "September 1, 2026 - Tuesday",VAG Tuesday,47-12-69-60-80,N/A,#849
-"August 31, 2026 - Monday",MONDAY SPECIAL,6-58-62-4-20,N/A,#1046
-"August 31, 2026 - Monday",5/39 Direct Monday,31-26-1-19-6,N/A,#522
-"August 31, 2026 - Monday",Monday Noon Rush,16-11-4-33-48,N/A,#152
-"August 31, 2026 - Monday",VAG Monday,30-58-73-83-38,N/A,#252
+"August 31, 2026 - Monday",MONDAY SPECIAL,6-58-62-4-20,,#1046
+"August 31, 2026 - Monday",5/39 Direct Monday,31-26-1-19-6,,#522
+"August 31, 2026 - Monday",Monday Noon Rush,16-11-4-33-48,,#152
+"August 31, 2026 - Monday",VAG Monday,30-58-73-83-38,,#252
 "August 30, 2026 - Sunday",SUNDAY ASEDA,76-38-44-55-12,,#214
 "August 29, 2026 - Saturday",NATIONAL,52-53-12-1-17,,#3332
 "August 29, 2026 - Saturday",5/39 Direct Saturday,27-13-8-25-5,,#261
